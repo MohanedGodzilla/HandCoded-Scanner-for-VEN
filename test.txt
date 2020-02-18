@@ -1,0 +1,4 @@
+begin
+proc nl = read nl
+if nl then write nl end if 
+end 
